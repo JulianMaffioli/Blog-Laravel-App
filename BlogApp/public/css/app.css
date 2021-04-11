@@ -1,0 +1,53 @@
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    background-color: rgb(170, 170, 170) !important;
+}
+
+.index-img-bg {
+    background-image: url("https://media.nomadicmatt.com/canadaguide.jpg");
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-mask {
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 100%;
+}
+
+.post-box {
+    position: relative;
+    height: 300px;
+    overflow: auto;
+}
+
+.align-right {
+    float: right;
+    width: 100px;
+    margin-left: 5px;
+}
+
+
+.align-left {
+    float: left;
+    width: 100px;
+    margin-right: 5px;
+}
+
+.align-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.font-color-{
+    color: white;
+    background-color: white;
+}

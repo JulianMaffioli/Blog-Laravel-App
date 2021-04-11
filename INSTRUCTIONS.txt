@@ -1,0 +1,14 @@
+This is a basic CRUD functionality of a Blog in Laravel
+
+1. Run the SQL Querty in order to create the DB
+
+2. Run server: php artisan serve
+
+3. Register and use the app
+
+
+ENJOY!
+--------------------------------------------------------------------------------------------------------------
+Credits:
+
+Traversy Media
